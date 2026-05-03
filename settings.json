@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "primesmpseasons.aternos.me",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.20.1"
   },
 
   "position": {
